@@ -59,7 +59,7 @@ Follow the step below to do the exercise:
 
   on:
     push:
-      branches: [ main, feat/workflow ]
+      branches: [ main, feat/workflows ]
     pull_request:
       branches: [ main ]
 
